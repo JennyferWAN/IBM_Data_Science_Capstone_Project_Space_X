@@ -6,7 +6,7 @@ Therefore if we can determine if the first stage will land, we can determine the
 
 
 
-## Data collection methodology :
+## Data collection :
 1. [SpaceX Rest API](https://github.com/JennyferWAN/IBM-Data-Science-Capstone-Project-Space-X/blob/eba362f42ea6271dde28a737e768e4856e5ff41d/Data%20Collection%20API.ipynb).
 2. [Web Scraping from Wikipedia](https://github.com/JennyferWAN/IBM-Data-Science-Capstone-Project-Space-X/blob/eba362f42ea6271dde28a737e768e4856e5ff41d/Data%20Collection%20with%20Web%20Scraping.ipynb).
 
