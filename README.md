@@ -15,7 +15,8 @@ Therefore if we can determine if the first stage will land, we can determine the
 2. [EDA with SQL](https://github.com/JennyferWAN/IBM_Data_Science_Capstone_Project_Space_X/blob/b18ac9cbaadf644cc6a2c716c84db7d3fa50f6b6/EDA_with_SQL.ipynb) : Connect to the database using DB2 from IBM Cloud to write and execute SQL queries
 3. [EDA with Matplotlib and Seaborn](https://github.com/JennyferWAN/IBM_Data_Science_Capstone_Project_Space_X/blob/8d692e155debab824302299da80e2c6091ae6611/EDA%20with%20Data%20Visualization.ipynb)
 4. [Interactive Visual Analytics with Folium](https://github.com/JennyferWAN/IBM_Data_Science_Capstone_Project_Space_X/blob/75d03b7495aea1608454a92ed023ba57d32b8bfe/Interactive%20Visual%20Analytics%20with%20Folium.ipynb)
-5. [Machine Learning Prediction](https://github.com/JennyferWAN/IBM_Data_Science_Capstone_Project_Space_X/blob/f893e1708f5abbbab49bf8a9bbc65b27214b897c/Complete%20the%20Machine%20Learning%20Prediction%20lab.ipynb) : Find best Hyperparameter for Logistic Regression, SVM, Decision Tree and KNN
+5. [Build an Interactive Dashboard with Ploty Dash](https://github.com/JennyferWAN/IBM_Data_Science_Capstone_Project_Space_X/blob/3ee088eb6669c2d1059e4d626c6057e52090455b/dash_interactivity.py) : Perform interactive visual analytics by using VSCode
+6. [Machine Learning Prediction](https://github.com/JennyferWAN/IBM_Data_Science_Capstone_Project_Space_X/blob/f893e1708f5abbbab49bf8a9bbc65b27214b897c/Complete%20the%20Machine%20Learning%20Prediction%20lab.ipynb) : Find best Hyperparameter for Logistic Regression, SVM, Decision Tree and KNN
 
 #### Author :
 Jennyfer WAN
