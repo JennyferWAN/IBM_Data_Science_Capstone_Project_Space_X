@@ -48,5 +48,11 @@ Therefore if we can determine if the first stage will land, we can determine the
 - [GitHub](https://github.com/) - Website that provides a cloud service for developers to store and manage their code.
 
 
+
+## Badges : 
+- [Credly](https://www.credly.com/users/jennyfer-wan/badges#)
+
+
+
 #### Author :
 Jennyfer WAN
