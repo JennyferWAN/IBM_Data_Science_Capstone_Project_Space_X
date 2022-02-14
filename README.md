@@ -16,9 +16,9 @@ Several examples of an unsuccessful landing :
 
 ![landing_1](https://user-images.githubusercontent.com/77052471/153782035-51c4c439-95cf-491a-a35b-e598c780b6bf.gif)
 
-![crash](https://user-images.githubusercontent.com/77052471/153782025-704ad559-4b40-4e65-8134-aa3d78507243.gif)
-
-
+![crash](https://user-images.githubusercontent.com/77052471/153782025-704ad559-4b40-4e65-8134-aa3d78507243.gif)   
+     
+     
 # ➫ Table of contents :
 
 ### 1️⃣ Data Collection :
@@ -38,10 +38,10 @@ Several examples of an unsuccessful landing :
 1. [Machine Learning Prediction](https://github.com/JennyferWAN/IBM_Data_Science_Capstone_Project_Space_X/blob/f893e1708f5abbbab49bf8a9bbc65b27214b897c/Complete%20the%20Machine%20Learning%20Prediction%20lab.ipynb) : Find best Hyperparameter for Logistic Regression, SVM, Decision Tree and KNN
 
 ### 5️⃣ My Data-Driven Insights :
-1. 
-
-
-
+1.   
+  
+  
+  
 # ➫ Build With :
 
 - [Python](https://www.python.org/) - Open source programming language most used by computer scientists.
@@ -50,9 +50,10 @@ Several examples of an unsuccessful landing :
 - [VSCode](https://code.visualstudio.com) - Visual Studio Code is a source-code editor that can be used with a variety of programming languages, including Java, JavaScript, Go, Node.js, Python and C++.
 - [IBM Watson Studio](https://www.ibm.com/in-en/cloud/watson-studio) - IBM’s software platform for data science.
 - [IBM Db2](https://www.ibm.com/in-en/analytics/db2) - Db2 is a family of data management products, including database servers, developed by IBM.
-- [plotly.com](https://plotly.com/) - Plotly stewards Python's leading data viz and UI libraries. With Dash Open Source, Dash apps run on your local laptop or server.
+- [IBM Cloud](https://www.ibm.com/fr-fr/cloud) - Next-generation hybrid multicloud platform, advanced data and AI capabilities
+- [Plotly](https://plotly.com/) - Plotly's Python graphing library makes interactive, publication-quality graphs.
 - [PowerPoint](https://www.office.com/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-wwwcourseraorg-SkillsNetworkCoursesIBMDA0321ENSkillsNetwork21426264-2021-01-01) - PowerPoint is software for making electronic slide shows that can then be projected onto a screen, allowing for oral presentations.
-- [GitHub](https://github.com/) - Website that provides a cloud service for developers to store and manage their code.
+- [GitHub](https://github.com/) - Website that provides a cloud service for developers to store and manage their code.    
 
 
 
