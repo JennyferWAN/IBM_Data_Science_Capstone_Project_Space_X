@@ -68,6 +68,7 @@ https://user-images.githubusercontent.com/77052471/157681919-22e7fa0e-8546-4597-
 # ➫ Badges : 
 - [Credly](https://www.credly.com/users/jennyfer-wan/badges#)
 
+<img src="https://user-images.githubusercontent.com/77052471/157734805-4571861f-57d1-4d93-a45c-90ff12c63558.png" width="180">
 
 
 #### Author :
