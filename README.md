@@ -38,7 +38,15 @@ Several examples of an unsuccessful landing :
 1. [Machine Learning Prediction](https://github.com/JennyferWAN/IBM_Data_Science_Capstone_Project_Space_X/blob/f893e1708f5abbbab49bf8a9bbc65b27214b897c/Complete%20the%20Machine%20Learning%20Prediction%20lab.ipynb) : Find best Hyperparameter for Logistic Regression, SVM, Decision Tree and KNN
 
 ### 5️⃣ My Data-Driven Insights :
-1.   
+1. [Final Project](https://github.com/JennyferWAN/IBM_Data_Science_Capstone_Project_Space_X/blob/bd7241f7571865a12ede6df9281b86024898a476/IBM_Data_Science_Capstone_Project_Space_X%20.pdf) : Resume of all our findings and processes in this final project with explanations.  
+➜ [Final Project with Genially](https://view.genial.ly/620c15e1ab3f04001287dcf1/presentation-ibm-data-science-capstone-project-space-x) : Project with animations and clickable links to be directed to github pages.
+    
+     
+     
+### Preview of SpaceX Project Presentation :
+https://user-images.githubusercontent.com/77052471/157681919-22e7fa0e-8546-4597-9d30-736c5caa1d03.mp4
+
+
   
   
   
